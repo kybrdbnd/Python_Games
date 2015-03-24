@@ -185,7 +185,7 @@ logingui.geometry("500x350+400+300")
 logingui.title("Mini Games For Python")
 
 # login Panel
-image = PhotoImage(file=r"/home/kybrdbnd/Projects/mini_games/login.png")
+image = PhotoImage(file=r"/home/kybrdbnd/Projects/python_games/login.png")
 Label(logingui, image=image).pack(side="right",padx=30,pady=50)
 loginpanel = Label(
     logingui, text="Login Panel", font=("", 25)).place(x=145, y=10)
