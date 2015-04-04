@@ -43,7 +43,7 @@ def play():
 root = Tk()
 root.title('Rock Paper Scissors')
 root.geometry("300x170+100+200")
-image = PhotoImage(file=r"/home/kybrdbnd/Projects/mini_games/rock.png")
+image = PhotoImage(file=r"rock.png")
 Label(root, image=image).pack(fill="both")
 # Variables
 player_choice = StringVar()

@@ -78,7 +78,7 @@ mGui = Tk() # object of Tkinter for Main Panel
 # Creation og Main GUI Panel
 mGui.geometry("500x350+400+200")
 mGui.title("Mini Games for Python")
-image = PhotoImage(file=r"/home/kybrdbnd/Projects/mini_games/main.png")
+image = PhotoImage(file=r"main.png")
 Label(mGui, image=image).pack()
 menubar = Menu(mGui)
 helpmenu = Menu(menubar)
