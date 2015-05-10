@@ -6,10 +6,10 @@ import sqlite3
 # import the modules we need, for creating a GUI...
 from tkinter import Tk, messagebox, Button, Label, Entry, StringVar, PhotoImage
 
-# import module to access system files
+#import module to access system files
 import os
 
-# connecting to the database
+# conencting to the database
 conn = sqlite3.connect("Database.db")
 c = conn.cursor()
 try:
