@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="4111461715">
+    <data-source source="LOCAL" name="Database" uuid="cee8725c-d5e6-491d-818c-40e5b15330fe">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\Projects\Python_Games\Database.db</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
